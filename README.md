@@ -1,4 +1,10 @@
-### Hi there 👋
+# "CAN YOU DIG IT ?"
+
+I like that question : "Can you dig it ?" meaning "Can you find that beat, mix it with that song and make everybody go crazy about your product ?" 
+
+I'm a big fan of the early days of hip hop. I like the spirit, how it "hacked" all the conventions, how it "opened" the music composition and how it finally ate the music industry. Just like software development.
+
+Like the turntablists back in the days, I'm here to dig into github and contribute to the party.
 
 <!--
 **RolandTLH/RolandTLH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
